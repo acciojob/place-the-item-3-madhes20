@@ -1,11 +1,11 @@
 
 /* Your CSS Code here. */
-  .flex-container {
+  .holder {
     display: flex;
     flex-wrap: wrap;
   }
 
-  .flex-container > div {
+  .holder > div {
     background-color: black;
     margin: 10px;
     width:300px;
