@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+  .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .flex-container > div {
+    background-color: black;
+    margin: 10px;
+    width:300px;
+    height: 300px;
+    font-size: 30px;
+  }
